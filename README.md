@@ -1,3 +1,3 @@
 # css-grid
 
-[Click ME](https://github.com/KerimGurbaz/css-grid)
+[Click ME](https://kerimgurbaz.github.io/css-grid/)
